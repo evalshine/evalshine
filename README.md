@@ -1,4 +1,4 @@
-<div align=center> ![visitors](https://visitor-badge.glitch.me/badge?page_id=evalshine) </div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=evalshine)
 
 ### Hi, i want to learn programming in python/backend and this is my github
 
